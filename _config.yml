@@ -1,0 +1,28 @@
+name: dangrlab
+favicon: null
+layout_spectrum: 0.12026096903719008
+typography_spectrum: 0.2509194372687489
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.04004221083596349
+  lightness: 0.9733418903779238
+  saturation: 0.10830516507849097
+  rhythmicContrast: 0.7657938885968179
+purpose: []
